@@ -13,4 +13,4 @@ elif size=='M':
      total_cost+=2
 else: 
     total_cost+=3
-print(total_cost)
+print(total_cost) #changed
